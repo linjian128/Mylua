@@ -13,7 +13,7 @@ require("luabase64")
 
 -- The email and password from the account you want to send emails from
 local MY_EMAIL = "18962284493@163.com"
-local EMAIL_PASSWORD = "Alinjian1280"
+local EMAIL_PASSWORD = "XXXXXX"
 
 -- The SMTP server and port of your email provider.
 -- If you don't know it google [my email provider] SMTP settings
